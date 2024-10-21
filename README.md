@@ -1,7 +1,7 @@
 # WordPress Theme Development 
 
 ## 📝 Description
-Welcome to the WordPress theme development series, I will try my best to teach you all about WordPress theme development. After completing this course, I hope you will be able to create any WordPress theme based on client recruitments or your preference. This is a completely free course and it's now available on YouTube.
+Welcome to the WordPress theme development series, I will try my best to teach you all about WordPress theme development. After completing this course, I hope you will be able to create any WordPress theme based on client recruitments or your preference. This is a completely free course.
 
 ## ⏳ Prerequisite
 You need following skills to start with
@@ -63,17 +63,3 @@ You need following skills to start with
  - [45. Custom Theme Option](https://youtu.be/mbHcNtkNtA4)
  - [46. What's Next?](https://youtu.be/FruOXZbnyLM)
 
-
-## 🧑‍💻 Contributors
-- [@Ali Hossain](https://github.com/shovoalways/)
-
-
-## Course URL (Playlist)👇
- - [WordPress Theme Development ](https://www.youtube.com/watch?v=KFy5TMsG09E&list=PLSNRR4BKcowD6A-U_ll9ayJWqOEz3XD8l)
-
-
-## 🥰 Follow me
-- [@Github](https://github.com/shovoalways/) 
-- [@Facebook](https://facebook.com/shovoalways/) 
-- [@Twitter](https://twitter.com/shovoalways/) 
-- [@Instagram](https://instagram.com/shovoalways/) 
